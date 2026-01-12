@@ -7,5 +7,4 @@ Welcome to my GitHub profile! I'm a Student with a passion for Full Stack Develo
 Right now, I'm focusing on:
 
 - Building Websites.
-- Learning Frontend Development.
 - Contributing to Open Source Project.
